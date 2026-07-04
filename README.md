@@ -80,33 +80,53 @@ Move the project folder directly into your XAMPP root folder:
 
 ---
 
-### Customer Dashboard & Service Filtering
+### Customer Dashboard
 
-![Customer Dashboard](screenshots/customer-dashboard.png)
+![Customer Dashboard](screenshots/customer-dashboard.jpg)
+
+---
+
+### Staff Dashboard
+
+![Staff Dashboard](screenshots/staff-dashboard.jpg)
+
+---
+
+### Add Service
+
+![Add Service](screenshots/add-service.jpg)
+
+---
+
+### Service Filtering
+
+![Service Filtering](screenshots/service-filtering.jpg)
 
 ---
 
 ### Interactive Scheduling Calendar
 
-![Scheduling Calendar](screenshots/scheduling-calendar.png)
+![Scheduling Calendar](screenshots/scheduling-calendar.jpg)
 
 ---
 
 ### Appointment Booking
 
-![Booking System](screenshots/booking-system.png)
+![Booking System](screenshots/booking.jpg)
 
 ---
 
 ### Feedback Submission
 
-![Feedback](screenshots/feedback.png)
+![Feedback](screenshots/feedback.jpg)
+
+![Add Feedback](screenshots/add-feedback.jpg)
 
 ---
 
 ### Admin Business Analytics Dashboard
 
-![Analytics Dashboard](screenshots/analytics-dashboard.png)
+![Feedback Analytics](screenshots/feedback-analytics.png)
 
 ---
 

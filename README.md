@@ -126,7 +126,7 @@ Move the project folder directly into your XAMPP root folder:
 
 ### Admin Business Analytics Dashboard
 
-![Feedback Analytics](screenshots/feedback-analytics.png)
+![Feedback Analytics](screenshots/feedback-analytics.jpg)
 
 ---
 
